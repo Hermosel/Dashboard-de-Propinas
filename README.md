@@ -82,10 +82,9 @@ Durante el desarrollo de este proyecto:
 
 ## 📞 Contacto
 
-Luis González Bernal - luisgonzalezb93gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/tu-perfil/) | [GitHub](https://github.com/tu-usuario) | [Portfolio](https://tu-portfolio.com)
-
+Francisco José Hermosel González 
+email. hermosel1981@gmail.com
+www.linkedin.com/in/francisco-josé-hermosel-gonzález-b2731bb2
 ---
 
 *Este proyecto fue desarrollado como parte del curso Anális de Datos Avanzado con Python en Feval.*
